@@ -328,3 +328,25 @@
 2020-08-10 13:56:22,516  INFO [main] SharedSD:21 - Test is starting.......!
 2020-08-10 13:56:30,430 ERROR [main] SharedSD:29 - Test Failed
 2020-08-10 13:56:31,247  INFO [main] SharedSD:37 - *******************
+2020-08-10 14:45:22,595  INFO [main] SharedSD:20 - ***************************
+2020-08-10 14:45:22,600  INFO [main] SharedSD:21 - Test is starting.......!
+2020-08-10 14:45:33,642  INFO [main] SharedSD:34 - Cleanup...!
+2020-08-10 14:45:33,642  INFO [main] SharedSD:35 - Test was completed
+2020-08-10 14:45:33,643  INFO [main] SharedSD:37 - *******************
+2020-08-10 14:45:33,759  INFO [main] SharedSD:20 - ***************************
+2020-08-10 14:45:33,759  INFO [main] SharedSD:21 - Test is starting.......!
+2020-08-10 14:45:40,908  INFO [main] SharedSD:34 - Cleanup...!
+2020-08-10 14:45:40,908  INFO [main] SharedSD:35 - Test was completed
+2020-08-10 14:45:40,910  INFO [main] SharedSD:37 - *******************
+2020-08-10 14:45:41,010  INFO [main] SharedSD:20 - ***************************
+2020-08-10 14:45:41,010  INFO [main] SharedSD:21 - Test is starting.......!
+2020-08-10 14:46:02,275 ERROR [main] SharedSD:29 - Test Failed
+2020-08-10 14:46:03,144  INFO [main] SharedSD:37 - *******************
+2020-08-10 14:46:03,241  INFO [main] SharedSD:20 - ***************************
+2020-08-10 14:46:03,242  INFO [main] SharedSD:21 - Test is starting.......!
+2020-08-10 14:46:10,517 ERROR [main] SharedSD:29 - Test Failed
+2020-08-10 14:46:11,291  INFO [main] SharedSD:37 - *******************
+2020-08-10 14:46:11,400 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-08-10 14:46:11,401 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-08-10 14:46:11,401 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-08-10 14:46:11,401 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
