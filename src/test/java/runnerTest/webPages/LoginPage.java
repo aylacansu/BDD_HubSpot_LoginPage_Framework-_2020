@@ -7,7 +7,6 @@ public class LoginPage extends ElementUtil{
   private   By emailId=By.id("username");
   private   By password1=By.id("password");
   private   By loginButton=By.id("loginBtn");
-  //private   By signUpLink=By.linkText("Sign up");
   private   By loginErrorText=By.xpath("//div[@class='private-alert__inner']");
 
 
@@ -29,10 +28,7 @@ return getPageTitle();
 
     clickOn(loginButton);
   }
-//  public void clickOnSignInButton(){
-//
-//    clickOn(signInButton);
-//  }
+
   public String getErrorMessage(){
 
     return  getTextFromElement(loginErrorText);
