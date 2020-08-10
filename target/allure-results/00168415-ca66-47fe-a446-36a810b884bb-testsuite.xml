@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1596759217286" stop="1596759219194" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify invalid login from Login page</name>
+    <title>Verify invalid login from Login page</title>
+    <test-cases>
+        <test-case start="1596759217405" stop="1596759217407" status="passed">
+            <name>Given I am Login page</name>
+            <title>Given I am Login page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Is-MacBook-Pro"/>
+                <label name="thread" value="22584@Is-MacBook-Pro.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1596759217714" stop="1596759217714" status="passed">
+            <name>When I enter aylacansu@siliconelabs.com into username field on the Login page</name>
+            <title>When I enter aylacansu@siliconelabs.com into username field on the Login page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Is-MacBook-Pro"/>
+                <label name="thread" value="22584@Is-MacBook-Pro.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1596759217786" stop="1596759217786" status="passed">
+            <name>And I enter test123 into password field on the Login page</name>
+            <title>And I enter test123 into password field on the Login page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Is-MacBook-Pro"/>
+                <label name="thread" value="22584@Is-MacBook-Pro.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1596759217914" stop="1596759217914" status="passed">
+            <name>And I click on login button on Login page</name>
+            <title>And I click on login button on Login page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Is-MacBook-Pro"/>
+                <label name="thread" value="22584@Is-MacBook-Pro.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1596759219057" stop="1596759219057" status="passed">
+            <name>Then I verify invalid login message on login in page</name>
+            <title>Then I verify invalid login message on login in page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Is-MacBook-Pro"/>
+                <label name="thread" value="22584@Is-MacBook-Pro.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify invalid login from Login page"/>
+        <label name="feature" value="Login page feature"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
