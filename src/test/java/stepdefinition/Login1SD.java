@@ -48,7 +48,7 @@ public class Login1SD {
     public void verifyInvalidLogin() throws InterruptedException {
         Assert.assertEquals(loginPage1.getErrorMessage(), "That email address doesn't exist.\n" +
                 "The email address you've entered doesn't appear to exist. Please check your entry and try again.");
-        //loginPage1.getErrorMessage();
+
     }
 
 
