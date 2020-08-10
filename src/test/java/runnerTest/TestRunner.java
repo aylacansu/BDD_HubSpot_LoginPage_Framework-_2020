@@ -15,11 +15,9 @@ import org.junit.runner.RunWith;
         //Path to your feature file
         features = {"src/test/resources/features"},
         // Specify tags to be executed
-<<<<<<< HEAD
+
         tags = {"@login1,@messenger"},
-=======
-        tags = {"@messenger,@login1"},
->>>>>>> Ayla
+
         //Specify step definition package name (Note: make sure to have this package on current directory)
         glue = {"stepdefinition"}
 
